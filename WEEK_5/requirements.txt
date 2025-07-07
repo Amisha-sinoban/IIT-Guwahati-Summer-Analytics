@@ -1,0 +1,6 @@
+pandas
+numpy
+pathway
+bokeh
+panel
+matplotlib
